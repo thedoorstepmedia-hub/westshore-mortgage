@@ -1,0 +1,8 @@
+{
+  "enabledPlugins": [
+    "claude-council"
+  ],
+  "pluginPaths": [
+    "./claude-council"
+  ]
+}
